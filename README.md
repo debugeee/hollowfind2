@@ -1,2 +1,2 @@
 # hollowfind2
-new hollow find module for volatility plugin
+This project fixed the bugges from hollowfind module in old hollow find , Volatility module!
